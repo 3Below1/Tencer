@@ -1,0 +1,11 @@
+[development]
+address = "localhost"
+log = "normal"
+port = 56700
+ws_port = 56701
+jwt_secret = "tNpZAvdd8hYNjxgZQwNnJsATyBo4lkQH"
+ad_hoc_hosting = false
+ad_hoc_region = "eu"
+
+[global.databases]
+tencer_data = { url = "tencer.sqlite" }
